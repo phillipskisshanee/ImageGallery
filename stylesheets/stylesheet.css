@@ -25,7 +25,7 @@ body {
 
 section {
     margin: 3em 0;
-    background-image: url("ImageGallery/Images/background.jpg");
+    background-image: url("../ImageGallery/Images/background.jpg");
 }
 
 a {
