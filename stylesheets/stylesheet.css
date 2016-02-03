@@ -47,10 +47,14 @@ a {
   color: #000;
   text-decoration: none;
 }
+h1 {
+  text-align: left;
+}
 
 h2 {
   color: #999;
   font-size: 1.3em;
+  text-align: right;
 }
 
 h3 {
@@ -72,6 +76,10 @@ hr {
 h3 + hr {
   margin-top: -0.8rem;
   margin-bottom: 0;
+}
+
+p {
+  text-align: center;
 }
 
 footer {
