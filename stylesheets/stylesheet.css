@@ -120,8 +120,14 @@ footer {
   width: 100%;
 }
 
-.column1of3, .column2of3, .column3of3 {
-  width:660px;
+.column1of3, .column3of3 {
+  width:300px;
   float: left;
   margin: 10px;
+}
+
+.column2of3 {
+  width:660px
+  float:left
+  margin:10px
 }
