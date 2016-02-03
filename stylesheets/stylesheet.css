@@ -9,7 +9,7 @@ body {
   line-height: 1.5;
   color: #606c71;
   text-align: center;
-  background-image: url"ImageGallery/Images/background.jpg";
+  background-image: url("ImageGallery/Images/background.jpg");
 }
 
 .container {
@@ -20,7 +20,7 @@ body {
   margin: 0 auto;
   padding: 1rem 2rem;
   text-align: left;
-  background-image: url"ImageGallery/Images/background.jpg";
+  background-image: url("ImageGallery/Images/background.jpg");
 }
 
 section {
